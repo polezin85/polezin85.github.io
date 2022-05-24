@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3e6841d5-58f2-48fe-9847-dee8d44d902d" name="poncreator.ru" url="http://194.58.97.155">
+        <fileTransfer host="194.58.97.155" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" showHiddenFiles="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="20b6f8ba-78b2-499f-9335-c8a477b3b49c" name="rosavoda.ru" url="http://194.58.97.155">
+        <fileTransfer host="194.58.97.155" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" showHiddenFiles="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="88d0eb3b-f4d8-4f1a-9fcb-16df371bab9e" name="medtehltd.com" url="http://medtehltd.com">
+        <fileTransfer rootFolder="/www/medtehltd.com" host="medtehltd.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" showHiddenFiles="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
